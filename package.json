@@ -1,0 +1,45 @@
+{
+  "name": "Tiba",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node node_modules/react-native/local-cli/cli.js start",
+    "test": "jest"
+  },
+  "dependencies": {
+    "b64-to-blob": "^1.2.19",
+    "base-64": "^0.1.0",
+    "firebase": "^5.8.3",
+    "react": "16.6.3",
+    "react-native": "^0.58.5",
+    "react-native-app-intro-slider": "^1.0.1",
+    "react-native-debugger": "^1.1.0",
+    "react-native-elements": "^1.0.0",
+    "react-native-fontawesome": "^6.0.1",
+    "react-native-fs": "^2.13.3",
+    "react-native-image-picker": "^0.28.0",
+    "react-native-linear-gradient": "^2.5.3",
+    "react-native-popup-dialog": "^0.17.0",
+    "react-native-router-flux": "^4.0.6",
+    "react-native-scripts": "^2.0.1",
+    "react-native-snap-carousel": "^3.7.5",
+    "react-native-vector-icons": "^6.3.0",
+    "redux": "^4.0.1",
+    "redux-thunk": "^2.3.0"
+  },
+  "devDependencies": {
+    "babel-core": "7.0.0-bridge.0",
+    "babel-jest": "24.1.0",
+    "jest": "24.1.0",
+    "metro-react-native-babel-preset": "0.51.1",
+    "react-test-renderer": "16.6.3"
+  },
+  "jest": {
+    "preset": "react-native"
+  },
+  "rnpm": {
+    "assets": [
+      "./App/Fonts/"
+    ]
+  }
+}
