@@ -7,13 +7,19 @@ import '@firebase/storage';
 
 // import '@firestore/'
 
+
+// food collections
+// sections collections 
+// ligin collections 
+// should creating it first
+
 export default FirebaseApp = firebase.initializeApp({
-  apiKey: "AIzaSyD6YA2MuLgky1I23V0UqMD_5IA-eSQdJ2M",
-  authDomain: "reactnativeproject-61649.firebaseapp.com",
-  databaseURL: "https://reactnativeproject-61649.firebaseio.com",
-  projectId: "reactnativeproject-61649",
-  storageBucket: "reactnativeproject-61649.appspot.com",
-  messagingSenderId: "352655709414"
+  apiKey: "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXxxxx",
+  authDomain: "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXxxxx.firebaseapp.com",
+  databaseURL: "https://XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXxxxx.firebaseio.com",
+  projectId: "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXxxxx",
+  storageBucket: "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXxxxx.appspot.com",
+  messagingSenderId: "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXxxxx"
 });
 
 
