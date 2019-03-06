@@ -1,4 +1,5 @@
-# shop Application by React-native & Redux
+# shop Application by React-native & Redux 
+# <br/> don't forget star 💎
 # Pages
 # 1- intro  
 This have intro about app!  
